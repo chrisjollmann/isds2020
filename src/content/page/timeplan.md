@@ -8,12 +8,12 @@ This page contains a schedule of the teaching sessions. In general most of the t
 
 - Morning session (9-12):
   - 9-11 exercises,
-  - 11-12 live lecture (via Zoom - link in [Absalon page](https://absalon.ku.dk/courses/44054))
+  - 11-12 live lecture (via Zoom - links [here](https://absalon.ku.dk/courses/44054/pages/teaching-links))
 - Lunch break (12-14):
-  - 12-13 optional office via Zoom (must book via email to either ABN, NJ or TJ)
+  - 12-13 office hours, optional (via Zoom, booking system will come)
 - Afternoon session (14-17):
   - 14-16 exercise
-  - 16-17 live lecture (via Zoom - link in [Absalon page](https://absalon.ku.dk/courses/44054))
+  - 16-17 live lecture (via Zoom - links [here](https://absalon.ku.dk/courses/44054/pages/teaching-links))
 
 
 The complete schedule of sessions is listed below with title, lecturer and links to material. Unless otherwise specified, the teaching will use the hours specified above.
@@ -24,25 +24,25 @@ Date  | Time  | Title | Teachers | Material
 ------|------:|-------|:--------:|:------
       |        | -------   Preparation  ------- | |
 Jul 05|        |  <font color="green">Assignment 0 posted</font>   |  | [nb](https://github.com/abjer/isds2020/blob/master/assignments/assignment0/assignment_0.ipynb)
-Aug 04| TBD        |  Assignment 0 online workshop `*`  |  TAs |
+Aug 04| 15-18        |  Assignment 0 online workshop `*`  |  JSRP | [pdf](https://github.com/abjer/isds2020/blob/master/assignments/assignment0/assignment0_workshop_slides.pdf)|
 Aug 07|  12:00 | <font color="red">Assignment 0 hand-in</font>  |  |  
       |       | ---------   Week 1  --------- | | |
-Aug 10|  9-10 | 1a. Course welcome | DDL |
- | 10-11 | 1b. Python intro  | ABN |  
+Aug 10|  9-10 | 1a. Course welcome | DDL |  [pdf](https://github.com/abjer/isds2020/blob/master/teaching_material/session_1/lecture_1a.pdf)
+ | 10-11 | 1b. Python intro  | ABN |  [nb](https://github.com/abjer/isds2020/blob/master/teaching_material/session_1/lecture_1b.ipynb)
  | 11-12 | 1c. Meet group and intro to git  | TAs |  
  | 14-17 | 2. Strings, queries and APIs | ABN & TAs| [nb](https://github.com/abjer/isds2020/blob/master/teaching_material/session_2/module_2.ipynb)
 Aug 11|  9-12 | 3. Visualizations | ABN & TAs| [nb](https://github.com/abjer/isds2020/blob/master/teaching_material/session_3/module_3.ipynb)
  | 14-17 | 4. Data structuring 1 | ABN & TAs|
 Aug 12|  9-12 | 5. Data structuring 2 | ABN & TAs|
- | 14-17 | 6. Scraping 1 | NJ |
+ | 14-17 | 6. Scraping 1 | NJ & TAs|
  | 23:59 |  <font color="green">Assignment 1 posted</font>   |--  |  
 Aug 13| 9-12| 7. Scraping 2 | NJ & TAs|
  |14-17| 8. Scraping 3 | NJ & TAs|
-Aug 14 | 9-11  | 9a. Assignment 1 workshop | TAs |
- | 10-12  | 9b. Big Data and Ethics | DDL |
+Aug 14 | 9-11 | 9a. Big Data and Ethics | DDL |
+ | 11-12  | 9b. Assignment 1 workshop | TAs |
  | 14-16 | Supervision 1 `*` | TAs |
  | 23:59 |  <font color="red">Assignment 1 hand-in</font>   |  |  
-      |       | ---------   Week 2  --------- | |
+ |       | ---------   Week 2  --------- | |
 Aug 17|  9-12 | 11. Machine learning intro | ABN & TAs|
 Aug 17| 14-17 | 12. Supervised learning 1 | ABN & TAs|  
 Aug 18|  9-12 | 13. Supervised learning 2 | ABN & TAs|  
@@ -69,7 +69,7 @@ Aug 24| 9-11 |  *Supervision 3* `*` | TAs |
 - Esben Brøgger Lemminger (EBM)
 - Kristoffer Pade Glavind (KPG)
 - Jakob Scheel-Bech (EC)
-- Jonas Skjold Raaschou-Pedersen (JRP)
+- Jonas Skjold Raaschou-Pedersen (JSRP)
 - Josefine Bjørnholm (JB)
 - Lykke Sterll (LS)
 - Mads Berner Bruun (MBB)
@@ -93,6 +93,4 @@ Aug 24| 9-11 |  *Supervision 3* `*` | TAs |
 #### Legend
 - nb: Slides and exercise in Jupyter Notebook format
 - nb sol: Slides and exercise in Jupyter Notebook format (Without solutions to the exercises you have to hand in)
-- pdf: Slides in pdf format
-- key: Slides in Apple Keynote format
-- pptx: PowerPoint slides
+- pdf: Slides in PDF format
